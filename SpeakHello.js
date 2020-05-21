@@ -2,7 +2,7 @@
 // See Lecture 52, part 2
 (function(names) {
   var names=["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
-  var greeting = "Hello";
+  var greeting = "";
   var firstLetter ="J"; 
   var nameswithJ = [];
   {
