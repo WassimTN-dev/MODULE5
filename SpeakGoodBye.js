@@ -6,7 +6,7 @@
 
 (function (names) {
   var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
-  var greeting = "Hello";
+  var greeting = "Goodbye";
   var firstLetter = "J";
   var nameswithJ = [];
   {
@@ -15,7 +15,7 @@
   for (var i = 0; i < names.length; i++) {
     var namefirstLetter = names[i].charAt(0);
     if (namefirstLetter === firstLetter) {
-      console.log("Hello ",   names[i]);
+      console.log("Goodbye ",   names[i]);
       nameswithJ.push(names[i]);
     } 
     else{
