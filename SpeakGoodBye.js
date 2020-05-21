@@ -19,7 +19,7 @@
       nameswithJ.push(names[i]);
     } 
     else{
-      console.log("GoodBye! ",   names[i]);
+      console.log("Hello! ",   names[i]);
     }
   }
   return nameswithJ;
