@@ -35,9 +35,9 @@ WARNING!!! WARNING!!!
 // (Note, Step 2 will be done in the SpeakHello.js file.)
 (function (names) {
 var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
-var greeting ="HEllo";
+var greeting ="Helloo";
   {
-    console.log(greeting +names );
+    console.log(greeting + names );
   }
 }
 )
